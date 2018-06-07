@@ -1,0 +1,2 @@
+kafka_2.10-0.9.0.0
+dsc-cassandra-2.2.4
